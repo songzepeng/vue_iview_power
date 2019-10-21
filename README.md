@@ -12,7 +12,9 @@
 3. axios:
     - 一个基于Promise（es6用于处理异步请求）的HTTP库，用于浏览器和node.js中
 
-## Project setup
+## Two Steps：
+
+### Project setup
 ```
 npm install
 ```
@@ -21,26 +23,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
